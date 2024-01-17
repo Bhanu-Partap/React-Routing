@@ -9,6 +9,7 @@ function App() {
       <BrowserRouter>
         <Routing />
         {/* <Navbar /> */}
+        {/* <Navbar /> */}
       </BrowserRouter>
     </>
   );
