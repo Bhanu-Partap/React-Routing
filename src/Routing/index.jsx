@@ -17,7 +17,6 @@ export default function Routing() {
         <Route element={<PublicLayout />}>
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
         </Route>
       </Routes>
